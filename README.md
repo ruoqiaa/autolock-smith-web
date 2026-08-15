@@ -1,4 +1,5 @@
 # Autolock Smith
+![Autolock Smith Screenshot](Screenshot%202026-08-15%20at%2013.10.37.png)
 
 A one-page business website built for Autolock Smith (Express Car Key), a car locksmith service, designed to convert visitors into enquiries.
 
